@@ -1,2 +1,3 @@
-# NSFW-Python
-修改自雅虎开源项目open_nsfw
+####
+
+- 修改自：https://github.com/yahoo/open_nsfw 
